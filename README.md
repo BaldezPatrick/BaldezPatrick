@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
 
 - 🔭 I’m currently working as a full-stack (ReactJs and Python).
-- 🌱 I’m currently learning FastAPI.
 
 <div align="center">
   <a href="https://github.com/BaldezPatrick">
